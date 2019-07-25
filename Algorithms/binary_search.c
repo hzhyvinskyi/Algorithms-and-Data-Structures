@@ -17,7 +17,7 @@ int main()
  
    first = 0;
    last = n - 1;
-   middle = (first+last) / 2;
+   middle = (first + last) / 2;
  
    int i = 0;
    while (first <= last) {
